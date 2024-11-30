@@ -2,44 +2,44 @@
 #
 # Fake News list
 # ------------------------------------[FILTERS]-------------------------------------
-0.0.0.0 breitbart.com
-0.0.0.0 www.breitbart.com
-0.0.0.0 dailycaller.com
-0.0.0.0 www.dailycaller.com
-0.0.0.0 dailysignal.com
-0.0.0.0 www.dailysignal.com
-0.0.0.0 dailywire.com
-0.0.0.0 www.dailywire.com
-0.0.0.0 foxnews.com
-0.0.0.0 www.foxnews.com
-0.0.0.0 hannity.com
-0.0.0.0 www.hannity.com
-0.0.0.0 infowars.com
-0.0.0.0 www.infowars.com
-0.0.0.0 nationalreview.com
-0.0.0.0 www.nationalreview.com
-0.0.0.0 newsmax.com
-0.0.0.0 www.newsmax.com
-0.0.0.0 pjmedia.com
-0.0.0.0 www.pjmedia.com
-0.0.0.0 redstate.com
-0.0.0.0 www.redstate.com
-0.0.0.0 theblaze.com
-0.0.0.0 www.theblaze.com
-0.0.0.0 theepochtimes.com
-0.0.0.0 www.theepochtimes.com
-0.0.0.0 thefederalist.com
-0.0.0.0 www.thefederalist.com
-0.0.0.0 thegatewaypundit.com
-0.0.0.0 www.thegatewaypundit.com
-0.0.0.0 townhall.com
-0.0.0.0 www.townhall.com
-0.0.0.0 twitchy.com
-0.0.0.0 www.twitchy.com
-0.0.0.0 washingtonexaminer.com
-0.0.0.0 www.washingtonexaminer.com
-0.0.0.0 washingtontimes.com
-0.0.0.0 www.washingtontimes.com
-0.0.0.0 westernjournal.com
-0.0.0.0 www.westernjournal.com
+breitbart.com
+www.breitbart.com
+dailycaller.com
+www.dailycaller.com
+dailysignal.com
+www.dailysignal.com
+dailywire.com
+www.dailywire.com
+foxnews.com
+www.foxnews.com
+hannity.com
+www.hannity.com
+infowars.com
+www.infowars.com
+nationalreview.com
+www.nationalreview.com
+newsmax.com
+www.newsmax.com
+pjmedia.com
+www.pjmedia.com
+redstate.com
+www.redstate.com
+theblaze.com
+www.theblaze.com
+theepochtimes.com
+www.theepochtimes.com
+thefederalist.com
+www.thefederalist.com
+thegatewaypundit.com
+www.thegatewaypundit.com
+townhall.com
+www.townhall.com
+twitchy.com
+www.twitchy.com
+washingtonexaminer.com
+www.washingtonexaminer.com
+washingtontimes.com
+www.washingtontimes.com
+westernjournal.com
+www.westernjournal.com
 
